@@ -1,0 +1,42 @@
+.left-section {
+    background-color: navy;
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+    font-size: 25px;
+  }
+  
+  .option {
+    width: 100%;
+    color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 10px;
+  }
+  
+  .option span {
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  
+  .option .icon {
+    margin-left: 136px;
+  }
+  
+  .option .customer-icon {
+    margin-left: 116px;
+  }
+  
+  .option .help-icon {
+    margin-left: 165px;
+  }
+  
+  .option .promote-icon {
+    margin-left: 130px;
+  }
+  
+  .option .income-icon {
+    margin-left: 140px;
+  }
+  
